@@ -1,2 +1,2 @@
 # Power_BI
-Projetos em Power BI.
+Projetos desenvolvidos durante a formação "Power BI", da Alura.
